@@ -1,10 +1,10 @@
 ---
-title: My first video on YT
+title: Hello Youtube
 date: "2021-09-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "perfecting-the-art-of-perfection"
-category: "Coding"
+category: "coding"
 tags:
   - "Handwriting"
   - "Learning to write"

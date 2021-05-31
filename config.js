@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Allen Joseph',
+    name: 'Nathan Woods',
     photo: '/photo.jpg',
     bio: 'Hello Youtube.',
     contacts: {
